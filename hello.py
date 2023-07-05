@@ -4,8 +4,7 @@ print ("Nova ramificação!!!!")
 
 print("Víctor")
 print ("Novo usuario")
-<<<<<<< HEAD
-=======
+
 print("Bardao-do-Esmaga!!!")
 print("Primeval Current - Albert")
 print("To maluco")
@@ -23,3 +22,6 @@ print("Gustavo")
 print("To ficando maluco")
 print("Kelly aquiiii")
 print("Testando main!!!")
+
+nome = input("Digite seu nome: ")
+print(f"Olá {nome} vamos aprender git e github")
