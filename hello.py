@@ -1,3 +1,21 @@
 print ("Hello World!!!!!!?????")
 print("Víctor")
 print ("Novo usuario")
+<<<<<<< HEAD
+=======
+print("Bardao-do-Esmaga!!!")
+print("Primeval Current - Albert")
+print("To maluco")
+print("Doce de leite")
+print("Bardao-do-Esmaga!!!")
+print("Commit do 20!!!")
+print("Uma viagem para o futuro")
+print("Gustavo")
+print("To ficando maluco")
+print("To ficando maluco")
+print("Olá, meu nome é Camille")
+print("AUauRaul")
+print("Gustavo")
+print("To ficando maluco")
+print("Kelly aquiiii")
+>>>>>>> 6612611c0703efe63f54e2fcab196b4e58b2aa58
