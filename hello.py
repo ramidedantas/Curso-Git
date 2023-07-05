@@ -6,7 +6,7 @@ print("Víctor")
 print ("Novo usuario")
 
 print("Bardao-do-Esmaga!!!")
-print("Sir Camelot teste")
+print("Sir Camelot mudando de novo outra vez")
 
 print("Bardao-do-Esmaga!!!")
 print("Primeval Current - Albert")
