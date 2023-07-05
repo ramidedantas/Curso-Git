@@ -17,6 +17,7 @@ print("Uma viagem para o futuro")
 print("Gustavo")
 =======
 printf("To ficando maluco")
-
+printf("AUauRaul")
 >>>>>>> b36bdd72383eba5160e694d6b5b543821319e181
 >>>>>>> dbb388cf919b185eb60f14317a67e4d02ffa4821
+p
