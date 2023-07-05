@@ -1,23 +1,29 @@
 print ("Hello World!!!!!!?????")
-print("Gustavo")
+
+print ("Nova ramificação")
+
+print("Víctor")
 print ("Novo usuario")
+<<<<<<< HEAD
 print("Bardao-do-Esmaga!!!")
 print("Sir Camelot")
-<<<<<<< HEAD
-
-print("Primeval Current - Albert")
-
-
 =======
+>>>>>>> 602a2a94f3f6ab98ac74a49210b24c550f8c6c0c
+<<<<<<< HEAD
+=======
+print("Bardao-do-Esmaga!!!")
+print("Primeval Current - Albert")
 print("To maluco")
 print("Doce de leite")
 print("Bardao-do-Esmaga!!!")
 print("Commit do 20!!!")
 print("Uma viagem para o futuro")
-<<<<<<< HEAD
+print("Hello, how are you?")
 print("Gustavo")
-=======
-printf("To ficando maluco")
-
->>>>>>> b36bdd72383eba5160e694d6b5b543821319e181
->>>>>>> dbb388cf919b185eb60f14317a67e4d02ffa4821
+print("To ficando maluco")
+print("To ficando maluco")
+print("Olá, meu nome é Camille")
+print("AUauRaul")
+print("Gustavo")
+print("To ficando maluco")
+print("Kelly aquiiii")
