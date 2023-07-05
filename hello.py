@@ -1,6 +1,8 @@
 print ("Hello World!!!!!!?????")
-print("Gustavo")
+print("Víctor")
 print ("Novo usuario")
+<<<<<<< HEAD
+=======
 print("Bardao-do-Esmaga!!!")
 print("Primeval Current - Albert")
 print("To maluco")
@@ -17,4 +19,3 @@ print("AUauRaul")
 print("Gustavo")
 print("To ficando maluco")
 print("Kelly aquiiii")
-
